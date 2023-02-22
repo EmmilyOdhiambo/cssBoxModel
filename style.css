@@ -1,0 +1,8 @@
+.inner{
+ padding: 20px;
+ margin: 5%;
+ border: blue solid;   
+}
+.outer{
+    border: red dotted;
+}
